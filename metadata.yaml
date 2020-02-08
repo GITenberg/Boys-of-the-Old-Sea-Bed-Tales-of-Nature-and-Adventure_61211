@@ -1,0 +1,34 @@
+_repo: Boys-of-the-Old-Sea-Bed-Tales-of-Nature-and-Adventure_61211
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McConnell, Charles Allen
+    aliases:
+    - McConnell, C. A. (Charles Allen)
+    - McConnell, Charles A. (Charles Allen)
+    birthdate: 1860
+    deathdate: 1955
+    gutenberg_agent_id: '51310'
+    url: http://www.gutenberg.org/2009/agents/51310
+description: ''
+gutenberg_issued: '2020-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61211'
+  lccn: '14009354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F516'
+- !lcsh 'Frontier and pioneer life -- Wisconsin -- Juneau County'
+- GITenberg
+tableOfContents: In the bed of an ancient sea -- Catching the fawn -- The great blue
+  heron -- The forest fire -- The first deer hunt -- The Indian war dance -- The floating
+  bog -- The wayside tavern -- Adventure on Lake Cheteck -- The paint mine -- Trapping
+  game birds -- The moundbuilders -- Cooking in camp -- Winter in the lumber woods
+  -- Over the rapids -- The gift of the flood -- The tragedy of the mounds -- College
+  days.
+title: 'Boys of the Old Sea Bed: Tales of Nature and Adventure'
+url: http://www.gutenberg.org/ebooks/61211
